@@ -1,2 +1,2 @@
-# Patika.Dev - Java Eğitimi 
+# Patika.Dev - Java 101 Eğitimi 
 KDV Tutarı Hesaplayıcı
