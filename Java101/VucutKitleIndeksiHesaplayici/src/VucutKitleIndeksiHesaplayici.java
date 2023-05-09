@@ -11,16 +11,16 @@ public class VucutKitleIndeksiHesaplayici {
         System.out.print("Lütfen boyunuzu (metre cinsinden) giriniz : ");
         boy = input.next();
 
-        boolean kosul = boy.contains(",");
-        boy = kosul ? boy = boy.replace(",", ".") : boy;
+        boolean kosul1 = boy.contains(",");
+        boy = kosul1 ? boy = boy.replace(",", ".") : boy;
 
         double dboy = Double.parseDouble(boy);
 
         System.out.print("Lütfen kilonuzu giriniz : ");
         kilo = input.next();
 
-        boolean kosul = kilo.contains(",");
-        kilo = kosul ? kilo = kilo.replace(",", ".") : kilo;
+        boolean kosul2 = kilo.contains(",");
+        kilo = kosul2 ? kilo = kilo.replace(",", ".") : kilo;
 
         double dkilo = Double.parseDouble(kilo);
 
