@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Vücut Kitle İndeksi Hesaplayıcı">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_05_2023_23_14_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_05_2023_23_14__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_05_2023_23_28_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_05_2023_23_28__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeaProjects1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/src/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/KDVTutariHesaplayici/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/ManavKasaProgrami/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/ManavKasaProgrami/src/ManavKasaProgrami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/NotOrtalamasiHesaplayici/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java102/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KDVTutariHesaplayici/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/NotOrtalamasiHesaplayici/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TaksimetreProgrami/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UcgenAlanHesaplayici/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/DaireAlaniHesaplayici.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/DaireAlaniHesaplayici.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java101/Java101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/ManavKasaProgrami/ManavKasaProgrami.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java101/KDVTutariHesaplayici/KDVTutariHesaplayici.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/KDVTutariHesaplayici/KDVTutariHesaplayici.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java101/NotOrtalamasiHesaplayici/NotOrtalamasiHesaplayici.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/NotOrtalamasiHesaplayici/NotOrtalamasiHesaplayici.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java101/TaksimetreProgrami/TaksimetreProgrami.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/TaksimetreProgrami/TaksimetreProgrami.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/UcgenAlanHesaplayici.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/UcgenAlanHesaplayici.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java102/Java102.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DaireAlaniHesaplayici/DaireAlaniHesaplayici/DaireAlaniHesaplayici.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KDVTutariHesaplayici/KDVTutariHesaplayici/KDVTutariHesaplayici.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NotOrtalamasiHesaplayici/NotOrtalamasiHesaplayici/NotOrtalamasiHesaplayici.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TaksimetreProgrami/TaksimetreProgrami/TaksimetreProgrami.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UcgenAlanHesaplayici/UcgenAlanHesaplayici/UcgenAlanHesaplayici.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PTh4zWbqlFPFB5f9DZmq5OmXjQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/onurkarakus/IdeaProjects1/Java/ManavKasaProgrami/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3448276&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java101" />
+      <recent name="$PROJECT_DIR$/Java101/TaksimetreProgrami/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ManavKasaProgrami">
+    <configuration name="DaireAlaniHesaplayici" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Java101.DaireAlaniHesaplayici.DaireAlaniHesaplayici" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DaireAlaniHesaplayici.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaireAlaniHesaplayici.DaireAlaniHesaplayici" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DaireAlaniHesaplayici.DaireAlaniHesaplayici" />
+      <module name="DaireAlaniHesaplayici" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DaireAlaniHesaplayici.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManavKasaProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManavKasaProgrami.ManavKasaProgrami" />
+      <module name="ManavKasaProgrami" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ManavKasaProgrami.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaksimetreProgrami.TaksimetreProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaksimetreProgrami.TaksimetreProgrami" />
+      <module name="TaksimetreProgrami" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TaksimetreProgrami.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VucutKitleIndeksiHesaplayici" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="VucutKitleIndeksiHesaplayici" />
+      <module name="VucutKitleIndeksiHesaplayici" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ManavKasaProgrami" />
+        <item itemvalue="Application.VucutKitleIndeksiHesaplayici" />
+        <item itemvalue="Application.DaireAlaniHesaplayici.DaireAlaniHesaplayici" />
+        <item itemvalue="Application.DaireAlaniHesaplayici" />
+        <item itemvalue="Application.TaksimetreProgrami.TaksimetreProgrami" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="" />
+      <created>1683486792042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683486792042</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Taksimetre Programı">
+      <created>1683490666830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683490666830</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Taksimetre Programı">
+      <created>1683490959177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683490959177</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Taksimetre Programı">
+      <created>1683492856280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683492856280</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Taksimetre Programı">
+      <created>1683494768098</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683494768098</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Taksimetre Programı">
+      <created>1683494791333</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683494791333</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Daire Diliminin Alanını Hesaplayan Program">
+      <created>1683495843692</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683495843692</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Daire Diliminin Alanını Hesaplayan Program">
+      <created>1683495882802</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683495882802</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Vücut Kitle İndeksi Hesaplayıcı">
+      <created>1683661695740</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683661695740</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Vücut Kitle İndeksi Hesaplayıcı">
+      <created>1683661810246</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683661810246</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Vücut Kitle İndeksi Hesaplayıcı">
+      <created>1683662071065</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683662071065</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Taksimetre Programı" />
+    <MESSAGE value="Daire Diliminin Alanını Hesaplayan Program" />
+    <MESSAGE value="Vücut Kitle İndeksi Hesaplayıcı" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vücut Kitle İndeksi Hesaplayıcı" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java101/VucutKitleIndeksiHesaplayici/src/VucutKitleIndeksiHesaplayici.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
