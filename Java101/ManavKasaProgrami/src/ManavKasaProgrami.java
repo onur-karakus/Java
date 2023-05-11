@@ -75,7 +75,7 @@ public class ManavKasaProgrami {
         System.out.println(ORANGE + "Elma " + RESET + "Kaç Kilo ? : " + YELLOW + elmaKg);
         System.out.println(ORANGE + "Domates "+ RESET + "Kaç Kilo ? : "+ YELLOW +  domatesKg);
         System.out.println(ORANGE + "Muz " + RESET + "Kaç Kilo ? : " + YELLOW + muzKg);
-        System.out.println(ORANGE + "Patlican " + RESET + "Kaç Kilo ? : " + YELLOW + patlicanKg);
+        System.out.println(ORANGE + "Patlıcan " + RESET + "Kaç Kilo ? : " + YELLOW + patlicanKg);
         System.out.println(ORANGE + "Toplam " + RESET +  "Tutar : " + YELLOW + sToplam + RESET +" TL");
 
     }
