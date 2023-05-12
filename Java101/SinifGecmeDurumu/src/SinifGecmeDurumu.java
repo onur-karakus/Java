@@ -58,6 +58,12 @@ public class SinifGecmeDurumu {
 
         System.out.println("Ortalamanız : " + formatter.format(sonuc));
 
+        if ( sonuc <= 55) {
+            System.out.println("Sınıfta kaldınız, seneye tekrar görüşme üzere!");
+        } else {
+            System.out.println("Tebrikler, sınıfı geçtiniz !");
+        }
+
         }
     }
 
