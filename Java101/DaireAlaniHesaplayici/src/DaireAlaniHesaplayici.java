@@ -18,6 +18,5 @@ public class DaireAlaniHesaplayici {
 
         alan = (((pi * (r * r) * a))/ 360);
         System.out.println("Daire Diliminin Alanı : " + formatter.format(alan) + " metrekare");
-
     }
 }
