@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Sınıf Geçme Durumu">
-      <change afterPath="$PROJECT_DIR$/Java101/EtkinlikOnerisi/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/EtkinlikOnerisi/EtkinlikOnerisi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/EtkinlikOnerisi/src/EtkinlikOnerisi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/src/DaireAlaniHesaplayici.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/src/DaireAlaniHesaplayici.java" afterDir="false" />
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Etkinlik Önerisi">
+      <change afterPath="$PROJECT_DIR$/Java101/SayiSiralayici/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/SayiSiralayici/src/SayiSiralayici.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +44,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "20",
-    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/EtkinlikOnerisi/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/SayiSiralayici/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.32545933",
@@ -64,7 +60,7 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EtkinlikOnerisi">
+  <component name="RunManager" selected="Application.SayiSiralayici">
     <configuration name="EtkinlikOnerisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EtkinlikOnerisi" />
       <module name="EtkinlikOnerisi" />
@@ -79,16 +75,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JTest" />
-      <module name="JavaTEST" />
+    <configuration name="KullaniciGirisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KullaniciGirisi" />
+      <module name="KullaniciGirisi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KullaniciGirisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KullaniciGirisi" />
-      <module name="KullaniciGirisi" />
+    <configuration name="SayiSiralayici" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SayiSiralayici" />
+      <module name="SayiSiralayici" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,18 +111,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.EtkinlikOnerisi" />
+      <item itemvalue="Application.SayiSiralayici" />
       <item itemvalue="Application.SinifGecmeDurumu" />
       <item itemvalue="Application.HesapMakinesiProgrami" />
-      <item itemvalue="Application.JTest" />
       <item itemvalue="Application.KullaniciGirisi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SayiSiralayici" />
         <item itemvalue="Application.EtkinlikOnerisi" />
         <item itemvalue="Application.SinifGecmeDurumu" />
         <item itemvalue="Application.KullaniciGirisi" />
         <item itemvalue="Application.HesapMakinesiProgrami" />
-        <item itemvalue="Application.JTest" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683919117741</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Etkinlik Önerisi">
+      <created>1683920926305</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1683920926305</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +291,8 @@
     <MESSAGE value="Hesap Makinesi" />
     <MESSAGE value="Kullanıcı Girişi" />
     <MESSAGE value="Sınıf Geçme Durumu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sınıf Geçme Durumu" />
+    <MESSAGE value="Etkinlik Önerisi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Etkinlik Önerisi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
