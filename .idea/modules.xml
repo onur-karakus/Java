@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/DaireAlaniHesaplayici.iml" filepath="$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/DaireAlaniHesaplayici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/EtkinlikOnerisi/EtkinlikOnerisi.iml" filepath="$PROJECT_DIR$/Java101/EtkinlikOnerisi/EtkinlikOnerisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/HesapMakinesiProgrami/HesapMakinesiProgrami.iml" filepath="$PROJECT_DIR$/Java101/HesapMakinesiProgrami/HesapMakinesiProgrami.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/Java101.iml" filepath="$PROJECT_DIR$/Java101/Java101.iml" />
