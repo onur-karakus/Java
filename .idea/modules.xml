@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java101/BurcBulanProgram/BurcBulanProgram.iml" filepath="$PROJECT_DIR$/Java101/BurcBulanProgram/BurcBulanProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/DaireAlaniHesaplayici.iml" filepath="$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/DaireAlaniHesaplayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/EtkinlikOnerisi/EtkinlikOnerisi.iml" filepath="$PROJECT_DIR$/Java101/EtkinlikOnerisi/EtkinlikOnerisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/HesapMakinesiProgrami/HesapMakinesiProgrami.iml" filepath="$PROJECT_DIR$/Java101/HesapMakinesiProgrami/HesapMakinesiProgrami.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java101/SayiSiralayici/SayiSiralayici.iml" filepath="$PROJECT_DIR$/Java101/SayiSiralayici/SayiSiralayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/SinifGecmeDurumu/SinifGecmeDurumu.iml" filepath="$PROJECT_DIR$/Java101/SinifGecmeDurumu/SinifGecmeDurumu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/TaksimetreProgrami/TaksimetreProgrami.iml" filepath="$PROJECT_DIR$/Java101/TaksimetreProgrami/TaksimetreProgrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/UcakBiletiHesaplama/UcakBiletiHesaplama.iml" filepath="$PROJECT_DIR$/Java101/UcakBiletiHesaplama/UcakBiletiHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/UcgenAlanHesaplayici.iml" filepath="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/UcgenAlanHesaplayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/VucutKitleIndeksiHesaplayici/VucutKitleIndeksiHesaplayici.iml" filepath="$PROJECT_DIR$/Java101/VucutKitleIndeksiHesaplayici/VucutKitleIndeksiHesaplayici.iml" />
     </modules>
