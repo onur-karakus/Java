@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Çin Zodyağı Hesaplama">
-      <change afterPath="$PROJECT_DIR$/Java101/ArtikYilHesaplama/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/ArtikYilHesaplama/src/ArtikYilHesaplama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Artık Yıl Hesaplama">
+      <change afterPath="$PROJECT_DIR$/Java101/Java101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/UcVeDordeTamBolunenSayilarinOrtalamasi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/UcVeDordeTamBolunenSayilarinOrtalamasi/src/UcVeDordeTamBolunenSayilarinOrtalamasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "20",
-    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/ArtikYilHesaplama/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/UcVeDordeTamBolunenSayilarinOrtalamasi/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.32545933",
@@ -61,17 +62,10 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArtikYilHesaplama">
+  <component name="RunManager" selected="Application.UcVeDordeTamBolunenSayilarinOrtalamasi">
     <configuration name="ArtikYilHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArtikYilHesaplama" />
       <module name="ArtikYilHesaplama" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BurcBulanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BurcBulanProgram" />
-      <module name="BurcBulanProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,16 +77,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UcakBiletHesaplayici" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UcakBiletHesaplayici" />
-      <module name="UcakBiletiHesaplama" />
+    <configuration name="Java101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java101" />
+      <module name="SayiSiralayici" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UcakBiletiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UcakBiletiHesaplama" />
-      <module name="UcakBiletiHesaplama" />
+    <configuration name="SayiSiralayici" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SayiSiralayici" />
+      <module name="SayiSiralayici" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcVeDordeTamBolunenSayilarinOrtalamasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UcVeDordeTamBolunenSayilarinOrtalamasi" />
+      <module name="UcVeDordeTamBolunenSayilarinOrtalamasi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,17 +114,17 @@
     <list>
       <item itemvalue="Application.ArtikYilHesaplama" />
       <item itemvalue="Application.CinZodyagiHesaplama" />
-      <item itemvalue="Application.UcakBiletHesaplayici" />
-      <item itemvalue="Application.UcakBiletiHesaplama" />
-      <item itemvalue="Application.BurcBulanProgram" />
+      <item itemvalue="Application.Java101" />
+      <item itemvalue="Application.UcVeDordeTamBolunenSayilarinOrtalamasi" />
+      <item itemvalue="Application.SayiSiralayici" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UcVeDordeTamBolunenSayilarinOrtalamasi" />
+        <item itemvalue="Application.SayiSiralayici" />
+        <item itemvalue="Application.Java101" />
         <item itemvalue="Application.ArtikYilHesaplama" />
         <item itemvalue="Application.CinZodyagiHesaplama" />
-        <item itemvalue="Application.UcakBiletiHesaplama" />
-        <item itemvalue="Application.UcakBiletHesaplayici" />
-        <item itemvalue="Application.BurcBulanProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684098547657</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Artık Yıl Hesaplama">
+      <created>1684098762223</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1684098762223</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,7 +340,8 @@
     <MESSAGE value="Burç Bulan Program" />
     <MESSAGE value="Uçak Bileti Fiyatı Hesaplayıcı" />
     <MESSAGE value="Çin Zodyağı Hesaplama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Çin Zodyağı Hesaplama" />
+    <MESSAGE value="Artık Yıl Hesaplama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Artık Yıl Hesaplama" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
