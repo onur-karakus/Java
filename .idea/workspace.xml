@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Yıldızlar ile Elmas Çizimi">
-      <change afterPath="$PROJECT_DIR$/Java101/SwitchCaseATM/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/SwitchCaseATM/SwitchCaseATM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/SwitchCaseATM/src/SwitchCaseATM.java" afterDir="false" />
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Switch Case ile ATM işlemleri">
+      <change afterPath="$PROJECT_DIR$/Java101/EbobEkok/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/EbobEkok/src/EbobEkok.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "20",
-    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/SwitchCaseATM/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/EbobEkok/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.32545933",
@@ -63,10 +61,17 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwitchCaseATM">
+  <component name="RunManager" selected="Application.EbobEkok">
     <configuration name="BasamakSayilariToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasamakSayilariToplami" />
       <module name="BasamakSayilariToplami" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EbobEkok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EbobEkok" />
+      <module name="EbobEkok" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,13 +86,6 @@
     <configuration name="HarmonikSeriHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HarmonikSeriHesaplama" />
       <module name="HarmonikSeriHesaplama" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KombinasyonHesaplayici" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KombinasyonHesaplayici" />
-      <module name="KombinasyonHesaplayici" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,18 +112,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BasamakSayilariToplami" />
+      <item itemvalue="Application.EbobEkok" />
       <item itemvalue="Application.ElmasPattern" />
       <item itemvalue="Application.HarmonikSeriHesaplama" />
-      <item itemvalue="Application.KombinasyonHesaplayici" />
       <item itemvalue="Application.SwitchCaseATM" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EbobEkok" />
         <item itemvalue="Application.SwitchCaseATM" />
         <item itemvalue="Application.ElmasPattern" />
         <item itemvalue="Application.HarmonikSeriHesaplama" />
         <item itemvalue="Application.BasamakSayilariToplami" />
-        <item itemvalue="Application.KombinasyonHesaplayici" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684102946433</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Switch Case ile ATM işlemleri">
+      <created>1684103376806</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1684103376806</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,7 +411,8 @@
     <MESSAGE value="Girilen Sayının Basamak Sayılarının Toplamını Hesaplayan Program" />
     <MESSAGE value="Girilen Sayının Harmonik Serisini Bulan Program" />
     <MESSAGE value="Yıldızlar ile Elmas Çizimi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Yıldızlar ile Elmas Çizimi" />
+    <MESSAGE value="Switch Case ile ATM işlemleri" />
+    <option name="LAST_COMMIT_MESSAGE" value="Switch Case ile ATM işlemleri" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
