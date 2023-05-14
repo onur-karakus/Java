@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="3 ve 4'e Tam Bölünen Sayıların Ortalaması">
-      <change afterPath="$PROJECT_DIR$/Java101/DordunKatlariniToplayanProgram/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/DordunKatlariniToplayanProgram/src/DordunKatlariniToplayanProgram.java" afterDir="false" />
-    </list>
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Çift ve 4'ün Katı Olan Sayıların Toplamı" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,17 +57,17 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DordunKatlariniToplayanProgram">
-    <configuration name="ArtikYilHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArtikYilHesaplama" />
-      <module name="ArtikYilHesaplama" />
+  <component name="RunManager" selected="Application.DortVeBesinKuvvetleri">
+    <configuration name="DordunKatlariniToplayanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DordunKatlariniToplayanProgram" />
+      <module name="DordunKatlariniToplayanProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DordunKatlariniToplayanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DordunKatlariniToplayanProgram" />
-      <module name="DordunKatlariniToplayanProgram" />
+    <configuration name="DortVeBesinKuvvetleri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DortVeBesinKuvvetleri" />
+      <module name="DortVeBesinKuvvetleri" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,19 +107,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArtikYilHesaplama" />
       <item itemvalue="Application.DordunKatlariniToplayanProgram" />
+      <item itemvalue="Application.DortVeBesinKuvvetleri" />
       <item itemvalue="Application.Java101" />
       <item itemvalue="Application.UcVeDordeTamBolunenSayilarinOrtalamasi" />
       <item itemvalue="Application.SayiSiralayici" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DortVeBesinKuvvetleri" />
         <item itemvalue="Application.DordunKatlariniToplayanProgram" />
         <item itemvalue="Application.UcVeDordeTamBolunenSayilarinOrtalamasi" />
         <item itemvalue="Application.SayiSiralayici" />
         <item itemvalue="Application.Java101" />
-        <item itemvalue="Application.ArtikYilHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684100698142</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Çift ve 4'ün Katı Olan Sayıların Toplamı">
+      <created>1684101309752</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1684101309752</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,7 +351,8 @@
     <MESSAGE value="Çin Zodyağı Hesaplama" />
     <MESSAGE value="Artık Yıl Hesaplama" />
     <MESSAGE value="3 ve 4'e Tam Bölünen Sayıların Ortalaması" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 ve 4'e Tam Bölünen Sayıların Ortalaması" />
+    <MESSAGE value="Çift ve 4'ün Katı Olan Sayıların Toplamı" />
+    <option name="LAST_COMMIT_MESSAGE" value="Çift ve 4'ün Katı Olan Sayıların Toplamı" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
