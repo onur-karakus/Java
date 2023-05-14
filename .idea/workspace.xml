@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Girilen Sayılardan En Büyük ve En Küçük Sayıyı Bulan Program">
-      <change afterPath="$PROJECT_DIR$/Java101/MukemmelSayiBulma/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/MukemmelSayiBulma/src/MukemmelSayiBulma.java" afterDir="false" />
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Ters Üçgen Çizen Program">
+      <change afterPath="$PROJECT_DIR$/Java101/AsalSayiBulma/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/AsalSayiBulma/src/AsalSayiBulma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "20",
-    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/MukemmelSayiBulma/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/AsalSayiBulma/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.32545933",
@@ -60,7 +60,14 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TersUcgen">
+  <component name="RunManager" selected="Application.AsalSayiBulma">
+    <configuration name="AsalSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AsalSayiBulma" />
+      <module name="AsalSayiBulma" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EbobEkok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EbobEkok" />
       <module name="EbobEkok" />
@@ -78,13 +85,6 @@
     <configuration name="MukemmelSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MukemmelSayiBulma" />
       <module name="MukemmelSayiBulma" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchCaseATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchCaseATM" />
-      <module name="SwitchCaseATM" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,19 +110,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.AsalSayiBulma" />
       <item itemvalue="Application.EbobEkok" />
       <item itemvalue="Application.MinMax" />
       <item itemvalue="Application.MukemmelSayiBulma" />
-      <item itemvalue="Application.SwitchCaseATM" />
       <item itemvalue="Application.TersUcgen" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AsalSayiBulma" />
         <item itemvalue="Application.TersUcgen" />
         <item itemvalue="Application.MukemmelSayiBulma" />
         <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.EbobEkok" />
-        <item itemvalue="Application.SwitchCaseATM" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +387,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684103832842</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Mükemmel Sayı Bulan Program">
+      <created>1684104047457</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1684104047457</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Ters Üçgen Çizen Program">
+      <created>1684104265183</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1684104265183</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +417,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Taksimetre Programı" />
     <MESSAGE value="Daire Diliminin Alanını Hesaplayan Program" />
     <MESSAGE value="Vücut Kitle İndeksi Hesaplayıcı" />
     <MESSAGE value="Manav Kasa Programı" />
@@ -427,7 +440,9 @@
     <MESSAGE value="Switch Case ile ATM işlemleri" />
     <MESSAGE value="EBOB - EKOK Bulan Program" />
     <MESSAGE value="Girilen Sayılardan En Büyük ve En Küçük Sayıyı Bulan Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Girilen Sayılardan En Büyük ve En Küçük Sayıyı Bulan Program" />
+    <MESSAGE value="Mükemmel Sayı Bulan Program" />
+    <MESSAGE value="Ters Üçgen Çizen Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ters Üçgen Çizen Program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
