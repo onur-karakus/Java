@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Artık Yıl Hesaplama">
-      <change afterPath="$PROJECT_DIR$/Java101/Java101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/UcVeDordeTamBolunenSayilarinOrtalamasi/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/UcVeDordeTamBolunenSayilarinOrtalamasi/src/UcVeDordeTamBolunenSayilarinOrtalamasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="3 ve 4'e Tam Bölünen Sayıların Ortalaması">
+      <change afterPath="$PROJECT_DIR$/Java101/DordunKatlariniToplayanProgram/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/DordunKatlariniToplayanProgram/src/DordunKatlariniToplayanProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "20",
-    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/UcVeDordeTamBolunenSayilarinOrtalamasi/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/DordunKatlariniToplayanProgram/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.32545933",
@@ -62,7 +60,7 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UcVeDordeTamBolunenSayilarinOrtalamasi">
+  <component name="RunManager" selected="Application.DordunKatlariniToplayanProgram">
     <configuration name="ArtikYilHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArtikYilHesaplama" />
       <module name="ArtikYilHesaplama" />
@@ -70,9 +68,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CinZodyagiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CinZodyagiHesaplama" />
-      <module name="CinZodyagiHesaplama" />
+    <configuration name="DordunKatlariniToplayanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DordunKatlariniToplayanProgram" />
+      <module name="DordunKatlariniToplayanProgram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,18 +111,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArtikYilHesaplama" />
-      <item itemvalue="Application.CinZodyagiHesaplama" />
+      <item itemvalue="Application.DordunKatlariniToplayanProgram" />
       <item itemvalue="Application.Java101" />
       <item itemvalue="Application.UcVeDordeTamBolunenSayilarinOrtalamasi" />
       <item itemvalue="Application.SayiSiralayici" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DordunKatlariniToplayanProgram" />
         <item itemvalue="Application.UcVeDordeTamBolunenSayilarinOrtalamasi" />
         <item itemvalue="Application.SayiSiralayici" />
         <item itemvalue="Application.Java101" />
         <item itemvalue="Application.ArtikYilHesaplama" />
-        <item itemvalue="Application.CinZodyagiHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684098762223</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="3 ve 4'e Tam Bölünen Sayıların Ortalaması">
+      <created>1684100698142</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1684100698142</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,7 +346,8 @@
     <MESSAGE value="Uçak Bileti Fiyatı Hesaplayıcı" />
     <MESSAGE value="Çin Zodyağı Hesaplama" />
     <MESSAGE value="Artık Yıl Hesaplama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Artık Yıl Hesaplama" />
+    <MESSAGE value="3 ve 4'e Tam Bölünen Sayıların Ortalaması" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 ve 4'e Tam Bölünen Sayıların Ortalaması" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
