@@ -60,17 +60,10 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MukemmelSayiBulma">
+  <component name="RunManager" selected="Application.TersUcgen">
     <configuration name="EbobEkok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EbobEkok" />
       <module name="EbobEkok" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ElmasPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElmasPattern" />
-      <module name="ElmasPattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,6 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TersUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TersUcgen" />
+      <module name="TersUcgen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Java" />
       <method v="2">
@@ -111,18 +111,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.EbobEkok" />
-      <item itemvalue="Application.ElmasPattern" />
       <item itemvalue="Application.MinMax" />
       <item itemvalue="Application.MukemmelSayiBulma" />
       <item itemvalue="Application.SwitchCaseATM" />
+      <item itemvalue="Application.TersUcgen" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TersUcgen" />
         <item itemvalue="Application.MukemmelSayiBulma" />
         <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.EbobEkok" />
         <item itemvalue="Application.SwitchCaseATM" />
-        <item itemvalue="Application.ElmasPattern" />
       </list>
     </recent_temporary>
   </component>
