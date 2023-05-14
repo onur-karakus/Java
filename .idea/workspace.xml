@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Girilen Sayıya Kadar 4 ve 5'in Kuvvetlerini Hesaplayan Program">
-      <change afterPath="$PROJECT_DIR$/Java101/KombinasyonHesaplayici/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/KombinasyonHesaplayici/src/KombinasyonHesaplayici.java" afterDir="false" />
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Kombinasyon Hesaplayan Program">
+      <change afterPath="$PROJECT_DIR$/Java101/ForDongusuUsluSayilar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/ForDongusuUsluSayilar/src/ForDongusuUsluSayilar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "20",
-    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/KombinasyonHesaplayici/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/ForDongusuUsluSayilar/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.32545933",
@@ -60,7 +61,14 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KombinasyonHesaplayici">
+  <component name="RunManager" selected="Application.BasamakSayilariToplami">
+    <configuration name="BasamakSayilariToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasamakSayilariToplami" />
+      <module name="BasamakSayilariToplami" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DordunKatlariniToplayanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DordunKatlariniToplayanProgram" />
       <module name="DordunKatlariniToplayanProgram" />
@@ -78,13 +86,6 @@
     <configuration name="KombinasyonHesaplayici" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KombinasyonHesaplayici" />
       <module name="KombinasyonHesaplayici" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SayiSiralayici" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SayiSiralayici" />
-      <module name="SayiSiralayici" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,19 +111,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BasamakSayilariToplami" />
       <item itemvalue="Application.DordunKatlariniToplayanProgram" />
       <item itemvalue="Application.DortVeBesinKuvvetleri" />
       <item itemvalue="Application.KombinasyonHesaplayici" />
       <item itemvalue="Application.UcVeDordeTamBolunenSayilarinOrtalamasi" />
-      <item itemvalue="Application.SayiSiralayici" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasamakSayilariToplami" />
         <item itemvalue="Application.KombinasyonHesaplayici" />
         <item itemvalue="Application.DortVeBesinKuvvetleri" />
         <item itemvalue="Application.DordunKatlariniToplayanProgram" />
         <item itemvalue="Application.UcVeDordeTamBolunenSayilarinOrtalamasi" />
-        <item itemvalue="Application.SayiSiralayici" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684101623182</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Kombinasyon Hesaplayan Program">
+      <created>1684101961057</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1684101961057</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,7 +371,8 @@
     <MESSAGE value="3 ve 4'e Tam Bölünen Sayıların Ortalaması" />
     <MESSAGE value="Çift ve 4'ün Katı Olan Sayıların Toplamı" />
     <MESSAGE value="Girilen Sayıya Kadar 4 ve 5'in Kuvvetlerini Hesaplayan Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Girilen Sayıya Kadar 4 ve 5'in Kuvvetlerini Hesaplayan Program" />
+    <MESSAGE value="Kombinasyon Hesaplayan Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kombinasyon Hesaplayan Program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
