@@ -61,14 +61,7 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EbobEkok">
-    <configuration name="BasamakSayilariToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasamakSayilariToplami" />
-      <module name="BasamakSayilariToplami" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MinMax">
     <configuration name="EbobEkok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EbobEkok" />
       <module name="EbobEkok" />
@@ -86,6 +79,13 @@
     <configuration name="HarmonikSeriHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HarmonikSeriHesaplama" />
       <module name="HarmonikSeriHesaplama" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinMax" />
+      <module name="MinMax" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,19 +111,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BasamakSayilariToplami" />
       <item itemvalue="Application.EbobEkok" />
       <item itemvalue="Application.ElmasPattern" />
       <item itemvalue="Application.HarmonikSeriHesaplama" />
+      <item itemvalue="Application.MinMax" />
       <item itemvalue="Application.SwitchCaseATM" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.EbobEkok" />
         <item itemvalue="Application.SwitchCaseATM" />
         <item itemvalue="Application.ElmasPattern" />
         <item itemvalue="Application.HarmonikSeriHesaplama" />
-        <item itemvalue="Application.BasamakSayilariToplami" />
       </list>
     </recent_temporary>
   </component>
