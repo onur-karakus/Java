@@ -59,17 +59,10 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RecursivePower">
+  <component name="RunManager" selected="Application.RecursivePrime">
     <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvancedCalculator" />
       <module name="AdvancedCalculator" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AsalSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AsalSayiBulma" />
-      <module name="AsalSayiBulma" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,6 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RecursivePrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursivePrime" />
+      <module name="RecursivePrime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Java" />
       <method v="2">
@@ -112,16 +112,16 @@
       <item itemvalue="Application.AdvancedCalculator" />
       <item itemvalue="Application.PalindromeNumber" />
       <item itemvalue="Application.RecursivePower" />
-      <item itemvalue="Application.AsalSayiBulma" />
+      <item itemvalue="Application.RecursivePrime" />
       <item itemvalue="Application.FibonacciSerisi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursivePrime" />
         <item itemvalue="Application.RecursivePower" />
         <item itemvalue="Application.AdvancedCalculator" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.FibonacciSerisi" />
-        <item itemvalue="Application.AsalSayiBulma" />
       </list>
     </recent_temporary>
   </component>
