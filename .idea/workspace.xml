@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Gelişmiş Hesap Makinesi" />
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Gelişmiş Hesap Makinesi">
+      <change afterPath="$PROJECT_DIR$/Java101/RecursivePower/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/RecursivePower/src/RecursivePower.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "20",
-    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/AdvancedCalculator/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/RecursivePower/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.32545933",
@@ -56,7 +59,7 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AdvancedCalculator">
+  <component name="RunManager" selected="Application.RecursivePower">
     <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvancedCalculator" />
       <module name="AdvancedCalculator" />
@@ -85,9 +88,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TersUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TersUcgen" />
-      <module name="TersUcgen" />
+    <configuration name="RecursivePower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursivePower" />
+      <module name="RecursivePower" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,17 +111,17 @@
     <list>
       <item itemvalue="Application.AdvancedCalculator" />
       <item itemvalue="Application.PalindromeNumber" />
+      <item itemvalue="Application.RecursivePower" />
       <item itemvalue="Application.AsalSayiBulma" />
       <item itemvalue="Application.FibonacciSerisi" />
-      <item itemvalue="Application.TersUcgen" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursivePower" />
         <item itemvalue="Application.AdvancedCalculator" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.FibonacciSerisi" />
         <item itemvalue="Application.AsalSayiBulma" />
-        <item itemvalue="Application.TersUcgen" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684273928245</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Gelişmiş Hesap Makinesi">
+      <created>1684273984258</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1684273984259</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
