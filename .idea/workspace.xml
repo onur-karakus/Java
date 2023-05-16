@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Fibonacci Serisi">
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Palindrom Sayı">
+      <change afterPath="$PROJECT_DIR$/Java101/AdvancedCalculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/AdvancedCalculator/src/AdvancedCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,22 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/onurkarakus/IdeaProjects1/Java/Java101/FibonacciSerisi/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.32545933&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "jdk.selected.JAVA_MODULE": "20",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/AdvancedCalculator/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.32545933",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Java101" />
@@ -59,7 +61,14 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromeNumber">
+  <component name="RunManager" selected="Application.AdvancedCalculator">
+    <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedCalculator" />
+      <module name="AdvancedCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AsalSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AsalSayiBulma" />
       <module name="AsalSayiBulma" />
@@ -70,13 +79,6 @@
     <configuration name="FibonacciSerisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciSerisi" />
       <module name="FibonacciSerisi" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MukemmelSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MukemmelSayiBulma" />
-      <module name="MukemmelSayiBulma" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,19 +111,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.AdvancedCalculator" />
       <item itemvalue="Application.PalindromeNumber" />
       <item itemvalue="Application.AsalSayiBulma" />
       <item itemvalue="Application.FibonacciSerisi" />
-      <item itemvalue="Application.MukemmelSayiBulma" />
       <item itemvalue="Application.TersUcgen" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdvancedCalculator" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.FibonacciSerisi" />
         <item itemvalue="Application.AsalSayiBulma" />
         <item itemvalue="Application.TersUcgen" />
-        <item itemvalue="Application.MukemmelSayiBulma" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684104666729</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Palindrom Sayı">
+      <created>1684272862651</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1684272862651</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +439,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Manav Kasa Programı" />
     <MESSAGE value="Hesap Makinesi" />
     <MESSAGE value="Kullanıcı Girişi" />
     <MESSAGE value="Sınıf Geçme Durumu" />
@@ -455,7 +463,8 @@
     <MESSAGE value="Ters Üçgen Çizen Program" />
     <MESSAGE value="1 - 100 Arasındaki Asal Sayıları Bulan Program" />
     <MESSAGE value="Fibonacci Serisi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci Serisi" />
+    <MESSAGE value="Palindrom Sayı" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindrom Sayı" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
