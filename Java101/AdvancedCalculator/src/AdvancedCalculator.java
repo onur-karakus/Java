@@ -145,14 +145,10 @@ public class AdvancedCalculator {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int select;
-        String menu = ("1- Toplama İşlemi\n"
-                + "2- Çıkarma İşlemi\n"
-                + "3- Çarpma İşlemi\n"
-                + "4- Bölme işlemi\n"
-                + "5- Üslü Sayı Hesaplama\n"
-                + "6- Faktoriyel Hesaplama\n"
-                + "7- Mod Alma\n"
-                + "8- Dikdörtgen Alan ve Çevre Hesabı\n"
+        String menu = ("1- Toplama İşlemi\n" + "2- Çıkarma İşlemi\n"
+                + "3- Çarpma İşlemi\n" + "4- Bölme işlemi\n"
+                + "5- Üslü Sayı Hesaplama\n" + "6- Faktoriyel Hesaplama\n"
+                + "7- Mod Alma\n" + "8- Dikdörtgen Alan ve Çevre Hesabı\n"
                 + "0- Çıkış Yap" );
 
         do {
