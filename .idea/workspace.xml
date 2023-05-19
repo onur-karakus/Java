@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Recursive Metotlar ile Asal Sayı Kontrolü">
-      <change afterPath="$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/src/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/src/Teacher.java" afterDir="false" />
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Öğrenci Bilgi Sistemi">
+      <change afterPath="$PROJECT_DIR$/Java101/BoxingGame/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/BoxingGame/BoxingGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/BoxingGame/src/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/BoxingGame/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/BoxingGame/src/Ring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "20",
-    "onboarding.tips.debug.path": "C:/Users/pc/IdeaProjects/Java/Java101/OgrenciBilgiSistemi/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/pc/IdeaProjects/Java/Java101/BoxingGame/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.32545933",
@@ -65,10 +65,10 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedCalculator" />
-      <module name="AdvancedCalculator" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BoxingGame" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,18 +116,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.AdvancedCalculator" />
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.RecursivePower" />
       <item itemvalue="Application.RecursivePrime" />
       <item itemvalue="Application.RecursiveSubstraction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RecursiveSubstraction" />
         <item itemvalue="Application.RecursivePrime" />
         <item itemvalue="Application.RecursivePower" />
-        <item itemvalue="Application.AdvancedCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684274641387</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Öğrenci Bilgi Sistemi">
+      <created>1684474709254</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1684474709255</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,7 +478,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Etkinlik Önerisi" />
     <MESSAGE value="Sayı Sıralayıcı" />
     <MESSAGE value="Burç Bulan Program" />
     <MESSAGE value="Uçak Bileti Fiyatı Hesaplayıcı" />
@@ -496,7 +502,8 @@
     <MESSAGE value="Gelişmiş Hesap Makinesi" />
     <MESSAGE value="Recursive Metotlar ile Üslü Sayı Hesaplama" />
     <MESSAGE value="Recursive Metotlar ile Asal Sayı Kontrolü" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recursive Metotlar ile Asal Sayı Kontrolü" />
+    <MESSAGE value="Öğrenci Bilgi Sistemi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Öğrenci Bilgi Sistemi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -523,7 +530,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/src/Main.java</url>
-          <line>13</line>
+          <line>24</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
