@@ -32,4 +32,5 @@ public class Fighter {
         double randomValue = Math.random() * 100;  //0.0 to 99.9
         return randomValue <= this.dodge;
     }
+
 }
