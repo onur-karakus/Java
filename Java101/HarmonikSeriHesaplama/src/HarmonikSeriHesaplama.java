@@ -6,11 +6,11 @@ public class HarmonikSeriHesaplama {
         System.out.print("Bir sayı giriniz: ");
         int n = input.nextInt();
 
-        double toplam = 0.0;
+        double total = 0.0;
         for (int i = 1; i <= n; i++) {
-            toplam += (1.0 / i);
+            total += (1.0 / i);
         }
 
-        System.out.println("Harmonik seri: " + toplam);
+        System.out.println("Harmonik seri: " + total);
     }
 }
