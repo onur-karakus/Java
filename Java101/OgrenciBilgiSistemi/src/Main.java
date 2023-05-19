@@ -28,4 +28,5 @@ public class Main {
         s4.addBulkExamNote(60, 50, 40, 60, 70,80); // Matematik: 50 (Not), 60 (Sözlü); Fizik: 20 (Not), 70 (Sözlü); Kimya: 40 (Not), 80 (Sözlü)
         s4.isPass();
     }
+
 }
