@@ -14,27 +14,23 @@ public class MatrixTransposition {
 
         System.out.println("Matrisin elemanlarını giriniz:");
 
-        // Kullanıcıdan matrisin elemanlarını alıyoruz
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < columns; j++) {
                 System.out.print("Matris[" + i + "][" + j + "]: ");
                 matrix[i][j] = scanner.nextInt();
-                // Transpoze matrisinde satır ve sütunları yer değiştiriyoruz
                 transposedMatrix[j][i] = matrix[i][j];
             }
         }
 
         System.out.println("Matris:");
-        // Matrisi ekrana yazdırma
         printMatrix(matrix);
 
         System.out.println("Transpoze:");
-        // Transpoze matrisi ekrana yazdırma
         printMatrix(transposedMatrix);
     }
 
     public static void printMatrix(int[][] matrix) {
-        for (int i = 0; matrix.length > i; i++) {
+        for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
                 System.out.print(matrix[i][j] + " ");
             }

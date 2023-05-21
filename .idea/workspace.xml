@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Dizideki Elemanları Küçükten Büyüğe Sıralayan Program">
-      <change afterPath="$PROJECT_DIR$/Java101/MatrixTransposition/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/MatrixTransposition/src/MatrixTransposition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Matris Transpozunu Bulma">
+      <change beforePath="$PROJECT_DIR$/Java101/MatrixTransposition/src/MatrixTransposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/MatrixTransposition/src/MatrixTransposition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683486792042</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Taksimetre Programı">
-      <created>1683492856280</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1683492856280</updated>
     </task>
     <task id="LOCAL-00004" summary="Taksimetre Programı">
       <created>1683494768098</created>
@@ -478,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684673693105</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Matris Transpozunu Bulma">
+      <created>1684676304868</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1684676304869</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +492,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Çin Zodyağı Hesaplama" />
     <MESSAGE value="Artık Yıl Hesaplama" />
     <MESSAGE value="3 ve 4'e Tam Bölünen Sayıların Ortalaması" />
     <MESSAGE value="Çift ve 4'ün Katı Olan Sayıların Toplamı" />
@@ -519,7 +516,8 @@
     <MESSAGE value="Çok Boyutlu Diziler ile B Harfi Yazdıran Program" />
     <MESSAGE value="Dizideki Tekrar Eden Sayıları Bulan Program" />
     <MESSAGE value="Dizideki Elemanları Küçükten Büyüğe Sıralayan Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dizideki Elemanları Küçükten Büyüğe Sıralayan Program" />
+    <MESSAGE value="Matris Transpozunu Bulma" />
+    <option name="LAST_COMMIT_MESSAGE" value="Matris Transpozunu Bulma" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
