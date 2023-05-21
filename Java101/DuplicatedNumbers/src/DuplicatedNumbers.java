@@ -16,7 +16,7 @@ public class DuplicatedNumbers {
         Arrays.sort(numbers);
 
         // Tekrar eden sayıları ve tekrar sayılarını hesaplama
-        System.out.println("\n###### Tekrar Eden Sayılar ######\n");
+        System.out.println("\n\n###### Tekrar Eden Sayılar ######\n");
         int count = 1;
         for (int i = 1; i < numbers.length; i++) {
             if (numbers[i] == numbers[i - 1]) {
