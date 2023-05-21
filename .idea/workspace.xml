@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Çok Boyutlu Diziler ile B Harfi Yazdıran Program">
-      <change beforePath="$PROJECT_DIR$/Java101/B/src/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/B/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/DuplicatedNumbers/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/DuplicatedNumbers/DuplicatedNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/DuplicatedNumbers/src/DuplicatedNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/onurkarakus/IdeaProjects1/Java/Java101/B/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.32545933&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "full.screen.before.presentation.mode": "false",
+    "jdk.selected.JAVA_MODULE": "20",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/RepeatedNumbers/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.32545933",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Java101" />
@@ -59,14 +63,7 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B">
-    <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedCalculator" />
-      <module name="AdvancedCalculator" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DuplicatedNumbers">
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B" />
       <module name="B" />
@@ -74,9 +71,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursivePower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursivePower" />
-      <module name="RecursivePower" />
+    <configuration name="DuplicatedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicatedNumbers" />
+      <module name="DuplicatedNumbers" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,6 +88,13 @@
     <configuration name="RecursiveSubstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RecursiveSubstraction" />
       <module name="RecursiveSubstraction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepeatedNumbers" />
+      <module name="DuplicatedNumbers" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,18 +114,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.B" />
-      <item itemvalue="Application.AdvancedCalculator" />
-      <item itemvalue="Application.RecursivePower" />
+      <item itemvalue="Application.DuplicatedNumbers" />
+      <item itemvalue="Application.RepeatedNumbers" />
       <item itemvalue="Application.RecursivePrime" />
       <item itemvalue="Application.RecursiveSubstraction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicatedNumbers" />
+        <item itemvalue="Application.RepeatedNumbers" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.RecursiveSubstraction" />
         <item itemvalue="Application.RecursivePrime" />
-        <item itemvalue="Application.RecursivePower" />
-        <item itemvalue="Application.AdvancedCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684670892371</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Çok Boyutlu Diziler ile B Harfi Yazdıran Program">
+      <created>1684671165897</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1684671165897</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,6 +539,11 @@
           <url>file://$PROJECT_DIR$/Java101/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java101/DuplicatedNumbers/src/DuplicatedNumbers.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
