@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Dizideki Tekrar Eden Sayıları Bulan Program">
-      <change afterPath="$PROJECT_DIR$/Java101/ArraySorting/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/ArraySorting/src/ArraySorting.java" afterDir="false" />
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Dizideki Elemanları Küçükten Büyüğe Sıralayan Program">
+      <change afterPath="$PROJECT_DIR$/Java101/MatrixTransposition/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/MatrixTransposition/src/MatrixTransposition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +42,9 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "20",
-    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/ArraySorting/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/MatrixTransposition/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.32545933",
@@ -60,7 +60,7 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArraySorting">
+  <component name="RunManager" selected="Application.MatrixTransposition">
     <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraySorting" />
       <module name="ArraySorting" />
@@ -82,9 +82,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveSubstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveSubstraction" />
-      <module name="RecursiveSubstraction" />
+    <configuration name="MatrixTransposition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixTransposition" />
+      <module name="MatrixTransposition" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,16 +113,16 @@
       <item itemvalue="Application.ArraySorting" />
       <item itemvalue="Application.B" />
       <item itemvalue="Application.DuplicatedNumbers" />
+      <item itemvalue="Application.MatrixTransposition" />
       <item itemvalue="Application.RepeatedNumbers" />
-      <item itemvalue="Application.RecursiveSubstraction" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArraySorting" />
+        <item itemvalue="Application.MatrixTransposition" />
         <item itemvalue="Application.DuplicatedNumbers" />
+        <item itemvalue="Application.ArraySorting" />
         <item itemvalue="Application.RepeatedNumbers" />
         <item itemvalue="Application.B" />
-        <item itemvalue="Application.RecursiveSubstraction" />
       </list>
     </recent_temporary>
   </component>
@@ -134,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683486792042</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Taksimetre Programı">
-      <created>1683490959177</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1683490959177</updated>
     </task>
     <task id="LOCAL-00003" summary="Taksimetre Programı">
       <created>1683492856280</created>
@@ -478,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684672974832</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Dizideki Elemanları Küçükten Büyüğe Sıralayan Program">
+      <created>1684673693105</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1684673693105</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +494,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Uçak Bileti Fiyatı Hesaplayıcı" />
     <MESSAGE value="Çin Zodyağı Hesaplama" />
     <MESSAGE value="Artık Yıl Hesaplama" />
     <MESSAGE value="3 ve 4'e Tam Bölünen Sayıların Ortalaması" />
@@ -519,7 +518,8 @@
     <MESSAGE value="Recursive Metotlar ile Desene Göre Metot Oluşturma" />
     <MESSAGE value="Çok Boyutlu Diziler ile B Harfi Yazdıran Program" />
     <MESSAGE value="Dizideki Tekrar Eden Sayıları Bulan Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dizideki Tekrar Eden Sayıları Bulan Program" />
+    <MESSAGE value="Dizideki Elemanları Küçükten Büyüğe Sıralayan Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dizideki Elemanları Küçükten Büyüğe Sıralayan Program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
