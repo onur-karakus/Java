@@ -54,6 +54,5 @@ public class GuessTheNumber {
                 System.out.println("Tahminleriniz : " + Arrays.toString(wrong)); // Display the incorrect guesses
             }
         }
-
     }
 }
