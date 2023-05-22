@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Sayı Tahmin Oyunu">
-      <change afterPath="$PROJECT_DIR$/Java101/ArraySorting/ArraySorting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/Employee/Employee.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/MatrixTransposition/MatrixTransposition.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java101/GuessTheNumber/src/GuessTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/GuessTheNumber/src/GuessTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/PalindromeWord/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/PalindromeWord/src/PalindromeWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +45,7 @@
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "20",
     "last_opened_file_path": "C:/Users/pc/IdeaProjects/Java/Java101/FindNearestNumbers",
-    "onboarding.tips.debug.path": "C:/Users/pc/IdeaProjects/Java/Java101/Employee/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/pc/IdeaProjects/Java/Java101/PalindromeWord/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15527344",
     "project.structure.side.proportion": "0.32545933",
@@ -66,7 +62,7 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PalindromeWord">
     <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Employee" />
       <module name="Employee" />
@@ -88,9 +84,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="OgrenciBilgiSistemi" />
+    <configuration name="PalindromeWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeWord" />
+      <module name="PalindromeWord" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,19 +99,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.PalindromeWord" />
       <item itemvalue="Application.Employee" />
       <item itemvalue="Application.HarmonikSeriHesaplama" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.PatikaDev" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeWord" />
         <item itemvalue="Application.HarmonikSeriHesaplama" />
         <item itemvalue="Application.PatikaDev" />
         <item itemvalue="Application.Employee" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -127,13 +123,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683486792042</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Taksimetre Programı">
-      <created>1683494768098</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1683494768098</updated>
     </task>
     <task id="LOCAL-00005" summary="Taksimetre Programı">
       <created>1683494791333</created>
@@ -471,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684740836331</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Sayı Tahmin Oyunu">
+      <created>1684742229756</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1684742229757</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
