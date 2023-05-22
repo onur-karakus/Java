@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Sayı Tahmin Oyunu">
-      <change afterPath="$PROJECT_DIR$/Java101/PalindromeWord/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java101/PalindromeWord/src/PalindromeWord.java" afterDir="false" />
-    </list>
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Palindromik Kelimeleri Bulan Program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,13 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683486792042</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Taksimetre Programı">
-      <created>1683494791333</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1683494791333</updated>
     </task>
     <task id="LOCAL-00006" summary="Daire Diliminin Alanını Hesaplayan Program">
       <created>1683495843692</created>
@@ -467,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684742229757</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Palindromik Kelimleri Bulan Program">
+      <created>1684743883050</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1684743883050</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,8 +480,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Artık Yıl Hesaplama" />
-    <MESSAGE value="3 ve 4'e Tam Bölünen Sayıların Ortalaması" />
     <MESSAGE value="Çift ve 4'ün Katı Olan Sayıların Toplamı" />
     <MESSAGE value="Girilen Sayıya Kadar 4 ve 5'in Kuvvetlerini Hesaplayan Program" />
     <MESSAGE value="Kombinasyon Hesaplayan Program" />
@@ -508,7 +503,9 @@
     <MESSAGE value="Çalışan Maaşlarının Hesaplanması" />
     <MESSAGE value="Harmonik Seri Hesaplama" />
     <MESSAGE value="Sayı Tahmin Oyunu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sayı Tahmin Oyunu" />
+    <MESSAGE value="Palindromik Kelimleri Bulan Program" />
+    <MESSAGE value="Palindromik Kelimeleri Bulan Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindromik Kelimeleri Bulan Program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

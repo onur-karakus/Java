@@ -13,6 +13,7 @@ public class PalindromeWord {
         }
     }
 
+
     // Bir kelimenin palindromik olup olmadığını kontrol eden fonksiyon
     public static boolean isPalindrome(String word) {
         // Kelimenin karakter dizisini ters çevirerek yeni bir String oluşturuyoruz
