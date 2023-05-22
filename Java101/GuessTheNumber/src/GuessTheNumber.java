@@ -5,53 +5,53 @@ import java.util.Scanner;
 public class GuessTheNumber {
     public static void main(String[] args) {
         Random rand = new Random();
-        int number = rand.nextInt(100); // Select a random number between 0 and 99
-
+        int number = rand.nextInt(100); // 0 ile 100 arasında rastgele bir sayı seçiliyor
         Scanner input = new Scanner(System.in);
-        int right = 0; // Number of correct guesses
-        int selected; // User's selected number
-        int[] wrong = new int[5]; // Array to store incorrect guesses
-        boolean isWin = false; // Flag to track if the user won the game
-        boolean isWrong = false; // Flag to track if the user made wrong inputs
+
+        int right = 0; // Doğru tahmin sayısı
+        int selected; // Kullanıcının seçtiği sayı
+        int[] wrong = new int[5]; // Yanlış tahminleri saklamak için dizi
+        boolean isWin = false; // Kullanıcının oyunu kazanıp kazanmadığını takip eden bayrak
+        boolean isWrong = false; // Kullanıcının yanlış giriş yapıp yapmadığını takip eden bayrak
 
         while (right < 5) {
-            System.out.print("Lütfen tahmininizi giriniz : "); // Prompt for user input
-            selected = input.nextInt(); // Read user's guess from input
+            System.out.print("Lütfen tahmininizi giriniz : "); // Kullanıcıdan giriş isteniyor
+            selected = input.nextInt(); // Kullanıcının tahmini okunuyor
 
-            if (selected < 0 || selected > 99) { // Check if the guess is out of the valid range
-                System.out.println("Lütfen 0-100 arasında bir değer giriniz."); // Prompt for valid input
+            if (selected < 0 || selected > 99) { // Tahminin geçerli aralıkta olup olmadığı kontrol ediliyor
+                System.out.println("Lütfen 0-100 arasında bir değer giriniz."); // Geçerli bir giriş isteniyor
                 if (isWrong) {
                     right++;
-                    System.out.println("Çok fazla hatalı giriş yaptınız. Kalan hak : " + (5 - right));
+                    System.out.println("Çok fazla hatalı giriş yaptınız. Kalan hakkınız: " + (5 - right));
                 } else {
                     isWrong = true;
                     System.out.println("Bir dahaki hatalı girişinizde hakkınızdan düşülecektir.");
                 }
-                continue; // Skip the rest of the loop and start the next iteration
+                continue; // Döngünün geri kalanını atlayarak bir sonraki döngüye geç
             }
 
-            if (selected == number) { // Check if the guess is correct
-                System.out.println("Tebrikler, doğru tahmin ! Tahmin ettiğiniz sayı : " + number);
+            if (selected == number) { // Tahminin doğru olup olmadığı kontrol ediliyor
+                System.out.println("Tebrikler, doğru tahmin! Tahmin ettiğiniz sayı: " + number);
                 isWin = true;
-                break; // Exit the loop since the user has guessed correctly
+                break; // Kullanıcı doğru tahmini yaptığı için döngüden çık
             } else {
-                System.out.println("Hatalı bir sayı girdiniz !"); // Inform the user about incorrect guess
+                System.out.println("Sayıyı tahmin edemediniz!"); // Kullanıcıya yanlış tahmin hakkında bilgi veriliyor
                 if (selected > number) {
                     System.out.println(selected + " sayısı, gizli sayıdan büyüktür.");
                 } else {
                     System.out.println(selected + " sayısı, gizli sayıdan küçüktür.");
                 }
 
-                wrong[right++] = selected; // Store the incorrect guess in the wrong array
-                System.out.println("Kalan hakkı : " + (5 - right)); // Display the remaining guesses
+                wrong[right++] = selected; // Yanlış tahmin diziye kaydediliyor
+                System.out.println("Kalan hakkınız: " + (5 - right)); // Kalan tahminler gösteriliyor
             }
         }
 
         if (!isWin) {
-            System.out.println("Kaybettiniz ! "); // Inform the user about losing the game
-            System.out.println("Gizli Sayı : " + number); // Display the hidden number
+            System.out.println("Kaybettiniz!"); // Kullanıcıya oyunu kaybettiği bilgisi veriliyor
+            System.out.println("Gizli Sayı: " + number); // Gizli sayı gösteriliyor
             if (!isWrong) {
-                System.out.println("Tahminleriniz : " + Arrays.toString(wrong)); // Display the incorrect guesses
+                System.out.println("Tahminleriniz: " + Arrays.toString(wrong)); // Yanlış tahminler gösterili
             }
         }
     }
