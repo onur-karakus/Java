@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Harmonik Seri Hesaplama">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Matris Transpozunu Bulma">
+      <change beforePath="$PROJECT_DIR$/Java101/MatrixTransposition/src/MatrixTransposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/MatrixTransposition/src/MatrixTransposition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/pc/IdeaProjects/Java/Java101/Employee/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.32545933&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "jdk.selected.JAVA_MODULE": "20",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/MatrixTransposition/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.32545933",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Java101" />
@@ -58,38 +58,38 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HarmonikSeriHesaplama">
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Employee" />
-      <module name="Employee" />
+  <component name="RunManager" selected="Application.MatrixTransposition">
+    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraySorting" />
+      <module name="ArraySorting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HarmonikSeriHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HarmonikSeriHesaplama" />
-      <module name="HarmonikSeriHesaplama" />
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B" />
+      <module name="B" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BoxingGame" />
+    <configuration name="DuplicatedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicatedNumbers" />
+      <module name="DuplicatedNumbers" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="OgrenciBilgiSistemi" />
+    <configuration name="MatrixTransposition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixTransposition" />
+      <module name="MatrixTransposition" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatikaDev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PatikaDev" />
-      <module name="VucutKitleIndeksiHesaplayici" />
+    <configuration name="RepeatedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepeatedNumbers" />
+      <module name="DuplicatedNumbers" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,19 +108,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Employee" />
-      <item itemvalue="Application.HarmonikSeriHesaplama" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.PatikaDev" />
+      <item itemvalue="Application.ArraySorting" />
+      <item itemvalue="Application.B" />
+      <item itemvalue="Application.DuplicatedNumbers" />
+      <item itemvalue="Application.MatrixTransposition" />
+      <item itemvalue="Application.RepeatedNumbers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HarmonikSeriHesaplama" />
-        <item itemvalue="Application.PatikaDev" />
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MatrixTransposition" />
+        <item itemvalue="Application.DuplicatedNumbers" />
+        <item itemvalue="Application.ArraySorting" />
+        <item itemvalue="Application.RepeatedNumbers" />
+        <item itemvalue="Application.B" />
       </list>
     </recent_temporary>
   </component>
@@ -132,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683486792042</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Taksimetre Programı">
-      <created>1683492856280</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1683492856280</updated>
     </task>
     <task id="LOCAL-00004" summary="Taksimetre Programı">
       <created>1683494768098</created>
@@ -434,49 +427,56 @@
       <option name="project" value="LOCAL" />
       <updated>1684274641387</updated>
     </task>
-    <task id="LOCAL-00046" summary="Öğrenci Bilgi Sistemi">
-      <created>1684474709254</created>
+    <task id="LOCAL-00046" summary="Recursive Metotlar ile Desene Göre Metot Oluşturma">
+      <created>1684274930677</created>
       <option name="number" value="00046" />
       <option name="presentableId" value="LOCAL-00046" />
       <option name="project" value="LOCAL" />
-      <updated>1684474709255</updated>
+      <updated>1684274930677</updated>
     </task>
-    <task id="LOCAL-00047" summary="Boks Oyunu">
-      <created>1684478422504</created>
+    <task id="LOCAL-00047" summary="Çok Boyutlu Diziler ile B Harfi Yazdıran Program">
+      <created>1684670892371</created>
       <option name="number" value="00047" />
       <option name="presentableId" value="LOCAL-00047" />
       <option name="project" value="LOCAL" />
-      <updated>1684478422504</updated>
+      <updated>1684670892371</updated>
     </task>
-    <task id="LOCAL-00048" summary="Boks Oyunu">
-      <created>1684478501576</created>
+    <task id="LOCAL-00048" summary="Çok Boyutlu Diziler ile B Harfi Yazdıran Program">
+      <created>1684671165897</created>
       <option name="number" value="00048" />
       <option name="presentableId" value="LOCAL-00048" />
       <option name="project" value="LOCAL" />
-      <updated>1684478501576</updated>
+      <updated>1684671165897</updated>
     </task>
-    <task id="LOCAL-00049" summary="Boks Oyunu">
-      <created>1684478547772</created>
+    <task id="LOCAL-00049" summary="Dizideki Tekrar Eden Sayıları Bulan Program">
+      <created>1684672919467</created>
       <option name="number" value="00049" />
       <option name="presentableId" value="LOCAL-00049" />
       <option name="project" value="LOCAL" />
-      <updated>1684478547772</updated>
+      <updated>1684672919467</updated>
     </task>
-    <task id="LOCAL-00050" summary="Çalışan Maaşlarının Hesaplanması">
-      <created>1684479385174</created>
+    <task id="LOCAL-00050" summary="Dizideki Tekrar Eden Sayıları Bulan Program">
+      <created>1684672974831</created>
       <option name="number" value="00050" />
       <option name="presentableId" value="LOCAL-00050" />
       <option name="project" value="LOCAL" />
-      <updated>1684479385175</updated>
+      <updated>1684672974832</updated>
     </task>
-    <task id="LOCAL-00051" summary="Harmonik Seri Hesaplama">
-      <created>1684508299750</created>
+    <task id="LOCAL-00051" summary="Dizideki Elemanları Küçükten Büyüğe Sıralayan Program">
+      <created>1684673693105</created>
       <option name="number" value="00051" />
       <option name="presentableId" value="LOCAL-00051" />
       <option name="project" value="LOCAL" />
-      <updated>1684508299750</updated>
+      <updated>1684673693105</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Matris Transpozunu Bulma">
+      <created>1684676304868</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1684676304869</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +492,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Çin Zodyağı Hesaplama" />
     <MESSAGE value="Artık Yıl Hesaplama" />
     <MESSAGE value="3 ve 4'e Tam Bölünen Sayıların Ortalaması" />
     <MESSAGE value="Çift ve 4'ün Katı Olan Sayıların Toplamı" />
@@ -513,11 +512,12 @@
     <MESSAGE value="Gelişmiş Hesap Makinesi" />
     <MESSAGE value="Recursive Metotlar ile Üslü Sayı Hesaplama" />
     <MESSAGE value="Recursive Metotlar ile Asal Sayı Kontrolü" />
-    <MESSAGE value="Öğrenci Bilgi Sistemi" />
-    <MESSAGE value="Boks Oyunu" />
-    <MESSAGE value="Çalışan Maaşlarının Hesaplanması" />
-    <MESSAGE value="Harmonik Seri Hesaplama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Harmonik Seri Hesaplama" />
+    <MESSAGE value="Recursive Metotlar ile Desene Göre Metot Oluşturma" />
+    <MESSAGE value="Çok Boyutlu Diziler ile B Harfi Yazdıran Program" />
+    <MESSAGE value="Dizideki Tekrar Eden Sayıları Bulan Program" />
+    <MESSAGE value="Dizideki Elemanları Küçükten Büyüğe Sıralayan Program" />
+    <MESSAGE value="Matris Transpozunu Bulma" />
+    <option name="LAST_COMMIT_MESSAGE" value="Matris Transpozunu Bulma" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -543,14 +543,9 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/src/Main.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Java101/Employee/src/Employee.java</url>
+          <url>file://$PROJECT_DIR$/Java101/DuplicatedNumbers/src/DuplicatedNumbers.java</url>
           <line>2</line>
-          <option name="timeStamp" value="9" />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
