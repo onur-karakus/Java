@@ -113,7 +113,7 @@ public class MineSweeper {
             int count = countAdjacentMines(row, col);
             mineField[row][col] = (char) (count + '0'); // Hücrenin etrafındaki mayın sayısını gösterir
             if (count == 0) {
-                // Etrafındaki tüm boş hücreleri aç
+                //  Etrafındaki tüm boş hücreleri aç
                 for (int i = row - 1; i <= row + 1; i++) {
                     for (int j = col - 1; j <= col + 1; j++) {
                         if (i >= 0 && i < rows && j >= 0 && j < cols) {
