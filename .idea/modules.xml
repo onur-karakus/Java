@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java101/FibonacciSerisi/FibonacciSerisi.iml" filepath="$PROJECT_DIR$/Java101/FibonacciSerisi/FibonacciSerisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/FindNearestNumbers/FindNearestNumbers.iml" filepath="$PROJECT_DIR$/Java101/FindNearestNumbers/FindNearestNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/ForDongusuUsluSayilar/ForDongusuUsluSayilar.iml" filepath="$PROJECT_DIR$/Java101/ForDongusuUsluSayilar/ForDongusuUsluSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/GuessTheNumber/GuessTheNumber.iml" filepath="$PROJECT_DIR$/Java101/GuessTheNumber/GuessTheNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/HarmonikSeriHesaplama/HarmonikSeriHesaplama.iml" filepath="$PROJECT_DIR$/Java101/HarmonikSeriHesaplama/HarmonikSeriHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/HesapMakinesiProgrami/HesapMakinesiProgrami.iml" filepath="$PROJECT_DIR$/Java101/HesapMakinesiProgrami/HesapMakinesiProgrami.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
@@ -37,6 +38,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java101/NotOrtalamasiHesaplayici/NotOrtalamasiHesaplayici.iml" filepath="$PROJECT_DIR$/Java101/NotOrtalamasiHesaplayici/NotOrtalamasiHesaplayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/PalindromeNumber/PalindromeNumber.iml" filepath="$PROJECT_DIR$/Java101/PalindromeNumber/PalindromeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/PalindromeWord/PalindromeWord.iml" filepath="$PROJECT_DIR$/Java101/PalindromeWord/PalindromeWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/RecursivePower/RecursivePower.iml" filepath="$PROJECT_DIR$/Java101/RecursivePower/RecursivePower.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/RecursivePrime/RecursivePrime.iml" filepath="$PROJECT_DIR$/Java101/RecursivePrime/RecursivePrime.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/RecursiveSubstraction/RecursiveSubstraction.iml" filepath="$PROJECT_DIR$/Java101/RecursiveSubstraction/RecursiveSubstraction.iml" />
