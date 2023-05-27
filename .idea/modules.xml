@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java101/AsalSayiBulma/AsalSayiBulma.iml" filepath="$PROJECT_DIR$/Java101/AsalSayiBulma/AsalSayiBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/B/B.iml" filepath="$PROJECT_DIR$/Java101/B/B.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/BasamakSayilariToplami/BasamakSayilariToplami.iml" filepath="$PROJECT_DIR$/Java101/BasamakSayilariToplami/BasamakSayilariToplami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/BoxingGame/BoxingGame.iml" filepath="$PROJECT_DIR$/Java101/BoxingGame/BoxingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/BurcBulanProgram/BurcBulanProgram.iml" filepath="$PROJECT_DIR$/Java101/BurcBulanProgram/BurcBulanProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/CinZodyagiHesaplama/CinZodyagiHesaplama.iml" filepath="$PROJECT_DIR$/Java101/CinZodyagiHesaplama/CinZodyagiHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/DaireAlaniHesaplayici.iml" filepath="$PROJECT_DIR$/Java101/DaireAlaniHesaplayici/DaireAlaniHesaplayici.iml" />
@@ -16,8 +17,10 @@
       <module fileurl="file://$PROJECT_DIR$/Java101/DuplicatedNumbers/DuplicatedNumbers.iml" filepath="$PROJECT_DIR$/Java101/DuplicatedNumbers/DuplicatedNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/EbobEkok/EbobEkok.iml" filepath="$PROJECT_DIR$/Java101/EbobEkok/EbobEkok.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/ElmasPattern/ElmasPattern.iml" filepath="$PROJECT_DIR$/Java101/ElmasPattern/ElmasPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/Employee/Employee.iml" filepath="$PROJECT_DIR$/Java101/Employee/Employee.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/EtkinlikOnerisi/EtkinlikOnerisi.iml" filepath="$PROJECT_DIR$/Java101/EtkinlikOnerisi/EtkinlikOnerisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/FibonacciSerisi/FibonacciSerisi.iml" filepath="$PROJECT_DIR$/Java101/FibonacciSerisi/FibonacciSerisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/FindNearestNumbers/FindNearestNumbers.iml" filepath="$PROJECT_DIR$/Java101/FindNearestNumbers/FindNearestNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/ForDongusuUsluSayilar/ForDongusuUsluSayilar.iml" filepath="$PROJECT_DIR$/Java101/ForDongusuUsluSayilar/ForDongusuUsluSayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/HarmonikSeriHesaplama/HarmonikSeriHesaplama.iml" filepath="$PROJECT_DIR$/Java101/HarmonikSeriHesaplama/HarmonikSeriHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/HesapMakinesiProgrami/HesapMakinesiProgrami.iml" filepath="$PROJECT_DIR$/Java101/HesapMakinesiProgrami/HesapMakinesiProgrami.iml" />
@@ -29,8 +32,10 @@
       <module fileurl="file://$PROJECT_DIR$/Java101/ManavKasaProgrami/ManavKasaProgrami.iml" filepath="$PROJECT_DIR$/Java101/ManavKasaProgrami/ManavKasaProgrami.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/MatrixTransposition/MatrixTransposition.iml" filepath="$PROJECT_DIR$/Java101/MatrixTransposition/MatrixTransposition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/MinMax/MinMax.iml" filepath="$PROJECT_DIR$/Java101/MinMax/MinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/MineSweeper/MineSweeper.iml" filepath="$PROJECT_DIR$/Java101/MineSweeper/MineSweeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/MukemmelSayiBulma/MukemmelSayiBulma.iml" filepath="$PROJECT_DIR$/Java101/MukemmelSayiBulma/MukemmelSayiBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/NotOrtalamasiHesaplayici/NotOrtalamasiHesaplayici.iml" filepath="$PROJECT_DIR$/Java101/NotOrtalamasiHesaplayici/NotOrtalamasiHesaplayici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/Java101/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/PalindromeNumber/PalindromeNumber.iml" filepath="$PROJECT_DIR$/Java101/PalindromeNumber/PalindromeNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/RecursivePower/RecursivePower.iml" filepath="$PROJECT_DIR$/Java101/RecursivePower/RecursivePower.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/RecursivePrime/RecursivePrime.iml" filepath="$PROJECT_DIR$/Java101/RecursivePrime/RecursivePrime.iml" />

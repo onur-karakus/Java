@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54498ef5-57f5-46a5-ae0b-bbdc62c3fb68" name="Changes" comment="Matris Transpozunu Bulma">
-      <change beforePath="$PROJECT_DIR$/Java101/MatrixTransposition/src/MatrixTransposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java101/MatrixTransposition/src/MatrixTransposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/ArraySorting/ArraySorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/Employee/Employee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/FindNearestNumbers/FindNearestNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/MatrixTransposition/MatrixTransposition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/MineSweeper/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/MineSweeper/MineSweeper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/MineSweeper/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java101/MineSweeper/src/MineSweeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +49,13 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
     "jdk.selected.JAVA_MODULE": "20",
-    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/MatrixTransposition/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/onurkarakus/IdeaProjects1/Java/Java101/MineSweeper/src/Main.java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.32545933",
+    "project.structure.proportion": "0.11148272",
+    "project.structure.side.proportion": "0.28024817",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -58,17 +68,10 @@
       <recent name="$PROJECT_DIR$/Java101/UcgenAlanHesaplayici/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MatrixTransposition">
+  <component name="RunManager" selected="Application.MineSweeper">
     <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraySorting" />
       <module name="ArraySorting" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B" />
-      <module name="B" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,6 +86,13 @@
     <configuration name="MatrixTransposition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MatrixTransposition" />
       <module name="MatrixTransposition" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MineSweeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MineSweeper" />
+      <module name="MineSweeper" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,19 +118,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MineSweeper" />
       <item itemvalue="Application.ArraySorting" />
-      <item itemvalue="Application.B" />
       <item itemvalue="Application.DuplicatedNumbers" />
       <item itemvalue="Application.MatrixTransposition" />
       <item itemvalue="Application.RepeatedNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MineSweeper" />
         <item itemvalue="Application.MatrixTransposition" />
         <item itemvalue="Application.DuplicatedNumbers" />
         <item itemvalue="Application.ArraySorting" />
         <item itemvalue="Application.RepeatedNumbers" />
-        <item itemvalue="Application.B" />
       </list>
     </recent_temporary>
   </component>
@@ -132,13 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683486792042</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Taksimetre Programı">
-      <created>1683494768098</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1683494768098</updated>
     </task>
     <task id="LOCAL-00005" summary="Taksimetre Programı">
       <created>1683494791333</created>
@@ -476,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684676304869</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Matris Transpozunu Bulma">
+      <created>1684676341373</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1684676341374</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
